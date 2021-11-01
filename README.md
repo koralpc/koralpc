@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @koralpc
 - 👀 I’m interested in Artificial Intelligence
-- 🌱 I’m currently learning Java & Solidity
+- 🌱 I’m currently learning more over Solidity
 - 📫 How to reach me -> via mail: mrkoralp@gmail.com / My personal webpage: https://koralp.me/
 
 <!---
